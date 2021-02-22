@@ -59,7 +59,7 @@
                 </select></td>
             </tr>
             <tr>
-                <td><input type="submit" name="submit" id="submit" value="Connection Bill Amount"></td>
+                <td><input type="submit" name="submit" id="submit" value="Submit"></td>
                 <td><input type="reset" name="clear" id="reset" value="Reset"></td>
             </tr>
         </table>
@@ -72,7 +72,6 @@
                 <th>ID</th>
                 <th>Year of batch</th>
                 <th>
-                    <td><label>Skills</label></td>
                     <td><select name="skills" id="sills" required>
                         <option value="C++">C++</option>
                         <option value="Java">Java</option>
@@ -82,9 +81,11 @@
                     </select></td>
                 </th>
             </tr>
-        <tr><td>1</td><td><td></td></td><td></td></tr>
-        <tr><td>2</td><td></td><td></td><td></td></tr>
-            
+        <tr><td>    </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+        <tr><td>    </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+        <tr><td>    </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+        <tr><td>    </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
+        <tr><td>    </td><td>   </td><td>   </td><td>   </td><td>   </td></tr>
         </table>
     </center>
     </body>
